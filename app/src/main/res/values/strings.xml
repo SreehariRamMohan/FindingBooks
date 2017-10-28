@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GoogleBooksAPI</string>
+    <string name="instructions">Enter a book ISBN for information about who wrote the book and other information</string>
+    <string name="input_hint">Enter an ISBN</string>
+    <string name="button_text">Search for books</string>
+
+
+</resources>
